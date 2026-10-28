@@ -1,0 +1,22 @@
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Editor and operating system files
+.DS_Store
+.vscode/
+
+# Local data and generated reports
+data/
+uploads/
+reports/
+
